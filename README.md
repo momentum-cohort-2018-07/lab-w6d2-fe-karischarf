@@ -15,3 +15,10 @@ Before you build out any code, take time to plan your calculator. You should thi
 ## TODO: calculator plan
 
 **Write your components with their props and state here.**
+
+App will have the following components:
+1. app= main placeholder component
+2. buttons= placeholder for individual button
+3. button= individual button
+4. display= display bar on top
+
